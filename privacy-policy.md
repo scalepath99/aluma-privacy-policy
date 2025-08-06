@@ -76,9 +76,7 @@ Podemos atualizar esta Política de Privacidade periodicamente. Notificaremos so
 
 Para questões sobre esta Política de Privacidade, entre em contato:
 
-**E-mail:** scalepathtools@gmail.com  
-**Endereço:** Rua Andorra 331, Jardim América, São José dos Campos - Brasil
-**Telefone:** +5512997810048
+**E-mail:** scalepathtools@gmail.com
 
 ---
 
