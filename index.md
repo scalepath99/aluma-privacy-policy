@@ -89,7 +89,7 @@ We will notify you of any significant changes via the app or by email.
 ## 10. CONTACT  
 If you have any questions about this Privacy Policy, please contact us:
 
-**Email:** scalepathtools@gmail.com
+**Email:** alumaglobal@gmail.com
 ---
 
 ## 11. SMS / TEXT MESSAGING (OPT-IN & OPT-OUT)
@@ -105,7 +105,7 @@ We only send texts after **express consent**. You can provide consent by:
   Your subscription is activated only after we receive **YES**.
 
 ### 11.3 Opt-Out & Help
-You may opt out at any time by replying **STOP**. For assistance, reply **HELP**. You can also manage preferences inside the App or contact us at **scalepathtools@gmail.com**. Opt-out does not affect non-SMS communications you choose to receive (e.g., email, in-app).
+You may opt out at any time by replying **STOP**. For assistance, reply **HELP**. You can also manage preferences inside the App or contact us at **alumaglobal@gmail.com**. Opt-out does not affect non-SMS communications you choose to receive (e.g., email, in-app).
 
 ### 11.4 Frequency & Charges
 Message frequency varies by usage (e.g., reminders you enable). **Message and data rates may apply** from your carrier.
