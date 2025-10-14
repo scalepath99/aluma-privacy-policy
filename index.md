@@ -89,7 +89,38 @@ We will notify you of any significant changes via the app or by email.
 ## 10. CONTACT  
 If you have any questions about this Privacy Policy, please contact us:
 
-**Email:** scalepathtools@gmail.com  
+**Email:** scalepathtools@gmail.com
+
+## 11. SMS / TEXT MESSAGING (OPT-IN & OPT-OUT)
+
+### 11.1 Purpose and Types of Messages
+If you opt in to receive SMS/text messages, we may send: (a) transactional notifications (e.g., account, order, reminders, support follow-ups) and (b) occasional service updates. We do not send high-frequency marketing blasts.
+
+### 11.2 Express Consent (Opt-In)
+We only send texts after **express consent**. You can provide consent by:
+- Checking an **unchecked** box during sign-up/checkout or in account settings (with clear disclosure); and/or
+- Completing a **double opt-in**: after you submit your number, we send  
+  “Reply **YES** to confirm SMS updates. **STOP** to opt out. **HELP** for help. Msg & data rates may apply.”  
+  Your subscription is activated only after we receive **YES**.
+
+### 11.3 Opt-Out & Help
+You may opt out at any time by replying **STOP**. For assistance, reply **HELP**. You can also manage preferences inside the App or contact us at **scalepathtools@gmail.com**. Opt-out does not affect non-SMS communications you choose to receive (e.g., email, in-app).
+
+### 11.4 Frequency & Charges
+Message frequency varies by usage (e.g., reminders you enable). **Message and data rates may apply** from your carrier.
+
+### 11.5 Compliance
+We follow applicable rules such as **LGPD/GDPR** principles, **ANATEL** guidelines (Brazil), and **TCPA/CTIA** requirements (U.S. A2P 10DLC). Each message identifies our brand and includes **STOP/HELP** instructions.
+
+### 11.6 Data We Process for SMS
+For SMS operations we process: mobile phone number, carrier metadata, message content, timestamps, delivery status, consent/opt-in and opt-out logs, and IP/user agent when consent is captured via web/app.
+
+### 11.7 Processors / Service Providers
+We use reputable messaging providers (e.g., SMS gateways) solely to deliver texts and manage compliance. They act as our **data processors** under contractual safeguards.
+
+### 11.8 Separate Channels
+WhatsApp or similar channels require **separate** consent and follow their own policies. Opting out of SMS does not automatically opt you out of those channels (and vice versa).
+
 
 **Aluma – Your Wellness Companion**  
 © 2025 Aluma. All rights reserved.
