@@ -90,6 +90,7 @@ We will notify you of any significant changes via the app or by email.
 If you have any questions about this Privacy Policy, please contact us:
 
 **Email:** scalepathtools@gmail.com
+---
 
 ## 11. SMS / TEXT MESSAGING (OPT-IN & OPT-OUT)
 
